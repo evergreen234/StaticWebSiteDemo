@@ -1,0 +1,33 @@
+.header-title {
+  font-weight: 700;
+  font-size: 2.4rem;
+  color: #000;
+}
+
+.copyright {
+  color: #FFF;
+}
+
+
+.category {
+  width: 100%;
+  background-color: #ccffcc;
+  list-style: none;
+}
+
+.category li {
+  display: inline-block;
+  border: 1px solid #d3d3d3;
+  padding: 2px 6px;
+  background-color: #fff;
+}
+
+.category a {
+  color: #000;
+  text-decoration: none;
+}
+
+.category a:hover {
+  color: #0080ff;
+}
+
